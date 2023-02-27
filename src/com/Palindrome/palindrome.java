@@ -1,4 +1,4 @@
-package com;
+package com.Palindrome;
 
 public class palindrome {
     public static void main(String[] args) {

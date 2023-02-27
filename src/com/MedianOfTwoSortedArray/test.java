@@ -1,4 +1,4 @@
-package com.medianOfTwoSortedArray;
+package com.MedianOfTwoSortedArray;
 
 public class test {
 
